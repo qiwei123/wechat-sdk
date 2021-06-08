@@ -11,4 +11,4 @@ setup(name="wechat-sdk",
       version="1.1.1",
       install_requires=requirements,
       packages=find_packages(),
-      url='https://git.corp.qianka.com/qi.wei/wechat-sdk')
+      url='https://github.com/qiwei123/wechat-sdk')
